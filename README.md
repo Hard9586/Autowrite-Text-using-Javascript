@@ -1,5 +1,5 @@
 # Autowrite-Text-using-Javascript
-Programing Languages used in this project is👇
+Programing Languages used in this project is👉
 HTML
 CSS
 Javascript 
